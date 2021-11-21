@@ -4,6 +4,3 @@
 
 ✍️ writing on [Dev.to](https://dev.to/thomasvanholder)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvanholder">
-
-
