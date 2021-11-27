@@ -4,3 +4,4 @@
 
 ✍️ writing:
 - [Dev.to](https://dev.to/thomasvanholder)
+- [Medium](https://medium.com/@thomasvanholder)
