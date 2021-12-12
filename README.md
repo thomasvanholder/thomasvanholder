@@ -7,4 +7,5 @@
 - [Medium](https://medium.com/@thomasvanholder)
 
 📝 articles:
--[How to migrate Rails UJS to Hotwire (Turbo) ](https://dev.to/thomasvanholder/how-to-migrate-rails-ujs-to-hotwire-turbo-hdh)
+- [How to migrate Rails UJS to Hotwire (Turbo) ](https://dev.to/thomasvanholder/how-to-migrate-rails-ujs-to-hotwire-turbo-hdh)
+- [Import Class in Relative File into Tailwind CSS and Rails](https://dev.to/thomasvanholder/extract-class-in-relative-file-with-rails-and-tailwind-css-50ii)
