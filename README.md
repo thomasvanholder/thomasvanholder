@@ -5,3 +5,6 @@
 ✍️ writing:
 - [Dev.to](https://dev.to/thomasvanholder)
 - [Medium](https://medium.com/@thomasvanholder)
+
+📝 articles:
+-[How to migrate Rails UJS to Hotwire (Turbo) ](https://dev.to/thomasvanholder/how-to-migrate-rails-ujs-to-hotwire-turbo-hdh)
