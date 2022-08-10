@@ -1,6 +1,7 @@
 👓 reading:
-- <a href="https://app.mailbrew.com/TheVanHolder/daily-ruby-on-rails-feed-jJhaGADqdv1r">The Ruby on Rails Daily</a> 
+- <a href="https://app.mailbrew.com/TheVanHolder/the-ruby-on-rails-daily-jJhaGADqdv1r">The Ruby on Rails Daily</a> 
 - <a href="https://app.mailbrew.com/TheVanHolder/the-frontend-daily-feWJESTRhD00">The Front-end Daily</a> 
+
 
 ✍️ writing:
 - [How to set-up Rails Hotwire live reload](https://dev.to/thomasvanholder/how-to-set-up-rails-hotwire-live-reload-38i9)
