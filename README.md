@@ -1,8 +1,3 @@
-👓 reading:
-- <a href="https://app.mailbrew.com/TheVanHolder/the-ruby-on-rails-daily-jJhaGADqdv1r">The Ruby on Rails Daily</a> 
-- <a href="https://app.mailbrew.com/TheVanHolder/the-frontend-daily-feWJESTRhD00">The Front-end Weekly</a> 
-
-
 ✍️ writing:
 - [How to set-up Rails Hotwire live reload](https://dev.to/thomasvanholder/how-to-set-up-rails-hotwire-live-reload-38i9)
 - [How to upgrade Tailwind 2 to Tailwind 3 ](https://dev.to/thomasvanholder/how-to-upgrade-tailwind-2-to-tailwind-3-2a3c) 
