@@ -1,10 +1,9 @@
-I’m a software engineer and CTO who enjoys building beautiful, reliable products that solve real problems.
+I'm a software engineer and CTO who enjoys building beautiful, reliable products that solve real problems.
 
-Currently working at Accountable, where I help build HIPAA compliance software for growing healthcare and tech companies. I stay hands-on across the stack (Ruby on Rails, Hotwire/Stimulus, TailwindCSS) while heavily collaborating with AI tools to build internal and external software solutions. I care deeply about writing beautiful, well-architected code that translate to high product quality, long-term maintainability, and shipping without unnecessary complexity.
+Most recently CTO at Accountable, where I helped build HIPAA compliance software for growing healthcare and tech companies. I stay hands-on across the stack (Ruby on Rails, Hotwire/Stimulus, TailwindCSS) while heavily collaborating with AI tools to build internal and external software solutions. I care deeply about writing beautiful, well-architected code that translates to high product quality, long-term maintainability, and shipping without unnecessary complexity. 
 
-Based in Colombia’s coffee region, I balance tech work with a more intentional life close to nature. 
+Based in Colombia's coffee region, I'm living close to nature and pursuing interests in sustainable living, indigenous wisdom, philosophy, travel, and building our homestead.
 
-Outside of work, I’m interested in sustainable living, indigenous wisdom, philosophy, travel, and building our homestead.
 
 ----
 
